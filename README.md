@@ -12,6 +12,7 @@ With Naver Search API
 ```
 
 ## Data path
+![image](https://github.com/Yusin-Lee/LLMwithNaverAPI/assets/98385516/97eeecd5-26fc-434e-803e-ac972ea369a1)
 ```
 1. USER -> Gradio : 질문 입력 / BLOG, 지식인 검색 중 하나 선택
 
