@@ -41,6 +41,8 @@ With Naver Search API
 
 3. Gradio 서버 구현
 ```
-** command-r-plus는 1달 1,000건의 API콜 무료
+
+** command-r-plus는 1달 1,000건의 API콜 무료 / GPT-3.5 ~ GPT-4 사이 수준으로 여겨짐
+
 ** GPT-4o를 [질문 -> 검색키워드 생성]에 사용하는 이유는 해당 태스크에 대한 Input, Output token이 크지 않고, 질문을 요약하여 검색 키워드를 생성하는 것이 검색 정확도에 중요하기 때문
-** 
+
